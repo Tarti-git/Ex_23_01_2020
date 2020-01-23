@@ -1,0 +1,7 @@
+﻿  EX_23_01_2020.cpp
+C:\Users\baptiste.kissel\source\repos\EX_23_01_2020\EX_23_01_2020\Pcoul.h(4,48): warning C4091: 'typedef ' : ignoré à gauche de 'Color' quand aucune variable n'est déclarée
+  Pcoul.cpp
+C:\Users\baptiste.kissel\source\repos\EX_23_01_2020\EX_23_01_2020\Pcoul.h(4,48): warning C4091: 'typedef ' : ignoré à gauche de 'Color' quand aucune variable n'est déclarée
+  Point.cpp
+  Génération de code en cours...
+  EX_23_01_2020.vcxproj -> C:\Users\baptiste.kissel\source\repos\EX_23_01_2020\Debug\EX_23_01_2020.exe
